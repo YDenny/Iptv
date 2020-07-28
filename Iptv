@@ -1,0 +1,163 @@
+#EXTM3U      
+#EXTINF:-1,ТНТ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
+#EXTINF:1,ТНТ
+https://mfe.svc.ott.zala.by/hls/MVNP5DA4U9_HLS/variant.m3u8
+#EXTINF:-1,ТНТ4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 ,ТНТ
+http://185.7.95.25:4021/udp/239.10.1.31:5000
+#EXTINF:-1 ,ТНТ4
+http://185.7.95.25:4021/udp/239.10.1.17:5000
+#EXTINF:-1, Bloomberg TV HD
+http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1, 24 Украина HD
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+#EXTINF:-1, Прямий HD
+http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8
+#EXTINF:0,ПРЯМОЙ HD
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1,РБК
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:-1,НТВ
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ntv/playlist.m3u8
+#EXTINF:0,ТВ 3
+http://persik.tv/stream/6299/10/63.m3u8
+#EXTINF:-1,СТС
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/sts/playlist.m3u8
+#EXTINF:-1,Discovery FHD
+http://live-ng-01.more.tv/hls/Discovery_HD/index_1.m3u8
+#EXTINF:-1,Discovery_Science_HD
+http://live-ng-01.more.tv/hls/Discovery_Science_HD/index_1.m3u8
+#EXTINF:-1 ,Классика кино HD
+http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:-1 ,Кинозал СССР
+https://v2.catcast.me/content/36506/index.m3u8
+#EXTINF:-1,Киносвидание HD
+http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+#EXTINF:-1,Киносемья HD
+http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:0,Кинокомедия HD
+http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+#EXTINF:0,Кинохит HD
+http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+#EXTINF:0,Киномикс HD
+http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+#EXTINF:0,Кинопремьера HD
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:-1,Первый Деловой
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
+#EXTINF:-1,UA Закарпатье
+http://api.tv.ipnet.ua/api/v1/manifest/2118742462.m3u8?codec=mpeg4
+#EXTINF:-1,112 Украина HD
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1,Наш
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
+#EXTINF:0,Россия 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1,Первый канал HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TV/variant.m3u8
+#EXTINF:-1,Малятко ТВ
+http://api.tv.ipnet.ua:80/api/v1/manifest/1311963260.m3u8
+#EXTINF:0,Мама 
+http://ott-cdn.ucom.am/s77/index.m3u8
+#EXTINF:-1 ,Viasat Sport HD
+http://78.157.230.19/streaming/viasat_sport_hd/364/copy/playlist.m3u8
+#EXTINF:-1 ,World Fashion Channel Россия HD
+http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,ATR
+http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8?codec=mpeg4
+#EXTINF:-1 ,RTL 102.5 TV
+http://rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/chunklist_b2296000.m3u8
+#EXTINF:0 group-title="Kids",DUCK TV
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+#EXTINF:-1,CBSN HD
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master.m3u8
+#EXTINF:-1,CBS News USA
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:-1,CNBC News
+https://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
+#EXTINF:-1,DJing Classic
+http://www.djing.com/tv/classics.m3u8
+#EXTINF:-1,Retro Music Tv 
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1,1HD Music TV
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1,MTV Norway
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1,MTV USA
+http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1,Русская ночь 
+http://188.35.9.11:21051/udp/071l
+#EXTINF:0,AST TV 1 HD 
+https://www.ast.tv/stream/1/ultra.m3u8
+#EXTINF:0,AST TV 2 HD 
+https://www.ast.tv/stream/2/ultra.m3u8
+#EXTINF:-1,AST TV 1
+https://www.ast.tv/stream/1/cellular.m3u8
+#EXTINF:-1,AST TV 2
+https://www.ast.tv/stream/2/cellular.m3u8
+#EXTINF:-1,Dorcel TV
+http://188.35.9.11:21141/udp/214h
+#EXTINF:-1,PLAYBOY
+http://188.35.9.14:21101/udp/127h
+#EXTINF:-1,Vivid TV Europe
+http://188.35.9.26:2031/udp/031a
+#EXTINF:-1,VIVID RED
+http://188.35.9.14:21131/udp/142d
+#EXTINF:-1, Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1,Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1, Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 ,Big Dick
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 ,Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 ,Lesbian
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:0,Hard Core (18+)
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:0,Three Some (18+)
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:0,Blowjob HD 720
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:0,Cuckold HD 720 (18+)
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:0,Interracial HD 720 (18+)
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:0,Latina HD 720 (18+)
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:0,Milf HD 720 (18+)
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:0,Pornstar HD 720 (18+)
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:0,POV HD 720 (18+)
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:0,Russian HD 720 (18+)
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:0,Teen HD 720 (18+)
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:0,Passion XXX
+http://78.129.228.178/iptv/BYFFGYH3ZPYFYV/878/index.m3u8
+#EXTINF:0,Penthouse TV
+http://78.129.228.178/iptv/BYFFGYH3ZPYFYV/1073/index.m3u8
+#EXTINF:0,Pink'o TV
+http://78.129.228.178/iptv/BYFFGYH3ZPYFYV/874/index.m3u8
+#EXTINF:0,Playboy
+http://78.129.228.178/iptv/BYFFGYH3ZPYFYV/527/index.m3u8
+#EXTINF:0,Private TV
+http://78.129.228.178/iptv/BYFFGYH3ZPYFYV/243/index.m3u8
+#EXTINF:0,Redlight HD
+http://78.129.228.178/iptv/BYFFGYH3ZPYFYV/242/index.m3u8
+#EXTINF:-1,Hustler HD (18+) 
+http://78.129.228.178/iptv/6BWB96ZFKFYP42/244/index.m3u8
+#EXTINF:-1,PassionXXX (18+) 
+http://78.129.228.178/iptv/6BWB96ZFKFYP42/245/index.m3u8
+#EXTINF:-1,Penthouse Passion (18+) 
+http://78.129.228.178/iptv/6BWB96ZFKFYP42/1073/index.m3u8
+#EXTINF:-1 ,XXX
+http://adultiptv.net/lists/all.m3u
+#EXTINF:-1,FTV Midnight Secrets (UHD)
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
